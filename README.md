@@ -50,9 +50,7 @@ Hiện tại **infill** và **nhiệt độ** phải nhập thêm ở ô **cấu
 nếu không, Cura Engine sẽ sử dụng giá trị mặc định: **215 °C / 60 °C, 30% infill**.
 
 Các thông số **infill** và **nhiệt độ**:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seprinder/Seinfill" width="800">
+infill" width="800">
 </p>
 
 infill_line_distance # sử dụng khoảng cách đường infill (có thể thay cho % infill)
@@ -60,4 +58,5 @@ material_bed_temperature # nhiệt độ bàn in
 material_bed_temperature_layer_0 # nhiệt độ bàn in lớp đầu
 material_print_temperature # nhiệt độ hotend
 material_print_temperature_layer_0 # nhiệt độ hotend lớp đầu
+
 
