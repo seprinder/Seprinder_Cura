@@ -53,6 +53,8 @@ Mở **Ultimaker Cura** trên máy tính.
 
 4. Một số thông số cho phép chỉnh nhanh để tối ưu bản in
 
+5. Kích thước in và giá 
+
 ---
 
 ## Lưu ý
@@ -76,6 +78,8 @@ material_bed_temperature_layer_0 # nhiệt độ bàn in lớp đầu
 material_print_temperature # nhiệt độ hotend
 
 material_print_temperature_layer_0 # nhiệt độ hotend lớp đầu
+
+center_object = true/false #đặt vật in ở giữa (true để vật ở giữa, false để đặt vật ở tọa độ 0;0. mặc định false)
 
 
 
